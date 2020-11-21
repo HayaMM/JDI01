@@ -21,10 +21,10 @@
 
 ```
 /JDI01
-    /computer_science
-    /projects
-    /resources
-    /lessons
-      /week_1
-        /day_1
+    /ComputerScience
+    /Projects
+    /Resources
+    /Lessons
+      /Week01
+        /Day01
 ```
