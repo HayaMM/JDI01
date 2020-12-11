@@ -53,7 +53,7 @@ Skip to `3` after this is completed else follow the steps below.
 3. Open a terminal and verify the installation was successful by typing git --version:
 ```bash
   $ git --version
-  git version 2.9.2
+  git version 2.28.0
 ```
 4. Configure your Git username and email using the following commands, replacing Emma's name with your own. These details will be associated with any commits that you create:
 ```bash
