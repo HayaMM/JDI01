@@ -54,4 +54,3 @@ Git Bash is an application for Microsoft Windows environments which provides an 
 
 #### Reference
 1. [Atlassian](https://www.atlassian.com/git/tutorials/)
-1. 
