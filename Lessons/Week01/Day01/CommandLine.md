@@ -147,19 +147,19 @@ use tab complete whenever possible!
 ### Lab: Make a Subdirectory
 
 Now that we're back in the home directory, let's create a place to store all the
-work we're going to do in this SEI. Naming can often be difficult, but simple
-names are best. Let's create a subdirectory named "sei". Always use lowercase
+work we're going to do in this JDI. Naming can often be difficult, but simple
+names are best. Let's create a subdirectory named "jdi". Always use lowercase
 names for your directories and files.
 
 Before issuing the command in the terminal, bring your explorer window into
 focus, the one with the home directory open. Resize and position it so that it
-is visible along with the terminal. Now, in the terminal, execute `mkdir sei`
+is visible along with the terminal. Now, in the terminal, execute `mkdir jdi`
 to create the directory (mnemonic: "make directory").
 
 Now, what folder are you in? Did it change by making the new directory?
 
 Create the following directories as well. They should be subdirectories of
-`sei`.
+`jdi`.
 
 - `lessons`
 - `homeworks`
@@ -170,7 +170,7 @@ Create the following directories as well. They should be subdirectories of
 Verify that your directory structure resembles the following:
 
 ```sh
-~/sei
+~/jdi
 ├── lessons
 ├── homeworks
 ├── warmups
@@ -178,7 +178,7 @@ Verify that your directory structure resembles the following:
 ├── tmp
 ```
 
-Now that we have our SEI directory setup, use the `mv` command to move some files into it.
+Now that we have our JDI directory setup, use the `mv` command to move some files into it.
 
 Find where the `cli` directory are
 stored (may be in the home directory). Then move those directories into the
@@ -192,7 +192,7 @@ put anything in them that you want to keep.
 
 ### Code Along: Create/Edit a File
 
-Move into the `tmp` directory inside `sei`. Create a new file using the `touch`
+Move into the `tmp` directory inside `jdi`. Create a new file using the `touch`
 command. Let's make a blank text file: `touch name.txt`.
 
 Next open that file in VScode: `code name.txt`. Write your name inside this file
