@@ -9,9 +9,9 @@
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
 |Lead Instructor | Saad Iqbal | @saadiqbal | saad.iqbal@generalassemb.ly 
-|Lead Instructor  |      |  | 
-|Instructional Associate |  |  | |
-|Instructional Associate |  |  |  |
+|Lead Instructor  | Eshraq Bakri | @BakriEshraq | bakri.eshraq@gmail.com
+|Instructional Associate | Samar Fares | @SamarFares | samarfares1991@gmail.com
+|Instructional Associate | Abdullah Altwaim | @AbdullahAltwaim | a_t1411@hotmail.com
 
 ### Course Information
 
