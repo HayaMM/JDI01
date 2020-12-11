@@ -3,7 +3,7 @@
 ## Install visual studio code on mac.
 ### Four easy steps can do the job for you.
 
-1. Download Visual Studio Code for Mac.
+1. Download [Visual Studio Code for Mac](https://code.visualstudio.com/download).
 1. Double-click on the downloaded archive to expand the contents.
 1. Drag Visual Studio Code.app to the Applications folder, making it available in the Launchpad.
 1. Add VS Code to your Dock by right-clicking on the icon and choosing  Options  Keep in Doc.
