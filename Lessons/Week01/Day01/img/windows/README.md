@@ -5,7 +5,7 @@
 
 ### Four easy steps can do the job for you.
 
-1. Download User Installer of [Visual Studio Code for Windows](https://code.visualstudio.com/download).
+1. Download [User Installer of Visual Studio Code for Windows](https://code.visualstudio.com/download).
 1. Double-click on the downloaded archive to expand the contents.
 1. Double-click Visual Studio Code.exe file and follow the installing process till complete.
 
