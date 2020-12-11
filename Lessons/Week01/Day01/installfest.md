@@ -8,4 +8,3 @@ Once you are finished, also make sure to install further VSCode extensions. You 
 
 1. [OSX](img/osx/README.md) 
 1. [Windows](img/windows/README.md)
-1. [Linux](img/linux/README.md)
