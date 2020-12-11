@@ -25,7 +25,13 @@ code .
 ### Git for Windows stand-alone installer
 1. Download the latest [Git for Windows installer](https://git-for-windows.github.io/).
 
-1. When you've successfully started the installer, you should see the Git Setup wizard screen. Follow the Next and Finish prompts to complete the installation. The default options are pretty sensible for most users.
+1. When you've successfully started the installer, you should see the Git Setup wizard screen. 
+
+1. Follow the Next and when it asks for the "Adjusting your PATH environment", select "Use Git and optional Unix tools from the command Prompt"
+
+1. Other default options are pretty sensible for most users.
+
+1. Finish prompts to complete the installation.
 
 1. Open a Git Bash
 
@@ -43,12 +49,6 @@ code .
 
 ## GitBash for Windows
 Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. Bash is a popular default shell on Linux and macOS. Git Bash is a package that installs Bash, some common bash utilities, and Git on a Windows operating system.
-
-### How to install Git Bash
-
-Git Bash comes included as part of the [Git For Windows package](https://gitforwindows.org/). Download and install Git For Windows like other Windows applications. Once downloaded find the included .exe file and open to execute Git Bash.
-
-
 
 
 
