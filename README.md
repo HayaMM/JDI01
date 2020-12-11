@@ -15,7 +15,7 @@
 
 ### Course Information
 
-- Course duration: Sunday, Nov 29th, 2020 - Thursday, Feb 18th, 2021 
+- Course duration: Sunday, Dec 13th, 2020 - Thursday, Mar 04th, 2021 
 
 ### Repo Structure
 
