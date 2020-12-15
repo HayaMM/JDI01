@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <style type="text/css">
+    .wrapper {
+      width: 960px;
+      margin: 0 auto;
+    }
+    header {
+      width: 960px;
+    }
+    nav,
+    section {
+      float: left;
+    }
+    nav {
+      width: 200px;
+      margin-right: 10px;
+    }
+    section {
+      width: 750px;
+    }
+    *,
+    *:before,
+    *:after {
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    body {
+      background: #2980b9;
+      color: #fff;
+      font-family: Helvetica;
+      text-align: center;
+      margin: 0;
+    }
+    header,
+    nav,
+    section {
+      border: 1px solid rgba(255, 255, 255, 0.8);
+      margin-bottom: 10px;
+      border-radius: 3px;
+    }
+    header {
+      padding: 20px 0;
+    }
+    nav,
+    section {
+      padding: 200px 0;
+    }
+    #first-div {
+    }
+  </style>
+  <head>
+    <title>CSS and HTML Page Layout</title>
+  </head>
+  <body>
+    <div style="width:500px" id="first-div" class="wrapper">
+      <h1>Static Layout Example</h1>
+      <header>HEADER</header>
+      <nav class="wrapper">NAV</nav>
+      <section>SECTION</section>
+      <svg width="100" height="100">
+        <circle
+          cx="50"
+          cy="50"
+          r="40"
+          stroke="green"
+          stroke-width="4"
+          fill="yellow"
+        />
+      </svg>
+      <img src="" alt="" />
+      <p>Both <span>span</span> and <a href="#top">anchor</a></p>
+    </div>
+    <div>
+      <p>the content inside it</p>
+      <a></a>
+    </div>
+  </body>
+</html>
